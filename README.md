@@ -1,7 +1,6 @@
 - 👋 Hi, I’m AravindRaveendran
-- 👀interested in coding
+- 👀interested in Computers
 - 🌱ready to explore
-- 💞️ coding is fun
 - 📫 reach me @ aravindr98.ar@gmail.com
 
 <!---
