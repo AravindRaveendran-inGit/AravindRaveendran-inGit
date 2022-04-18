@@ -2,7 +2,7 @@
 - 👀interested in Computers
 - 🌱ready to explore
 - 📫 reach me @ aravindr98.ar@gmail.com
-- www.aravindraveedran.in
+- www.aravindraveendran.in
 
 <!---
 AravindRaveendran-inGit/AravindRaveendran-inGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
